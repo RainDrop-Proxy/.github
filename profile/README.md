@@ -1,6 +1,6 @@
 <div align="center">
 
-![1](https://img.shields.io/badge/License%3A-ELV2-orange?style=plastic) ![2](https://img.shields.io/badge/Stars%3A-1-orange?style=plastic) ![3](https://img.shields.io/badge/Commits%3A-1-orange?style=plastic)
+![1](https://img.shields.io/badge/License%3A-ELV2-orange?style=plastic) ![2](https://img.shields.io/github/stars/RainDrop-Proxy?style=plastic) ![3](https://img.shields.io/github/commit-activity/t/RainDrop-Proxy/.github)
 
 </div>
 <div align="center">
